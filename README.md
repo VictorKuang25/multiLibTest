@@ -39,13 +39,13 @@ Replace `com.github.VictorKuang25.myLibrary`, `libraryName` and `1.0.0` with you
 
 Use Git to push the project to Github. Make sure to include your `build.gradle` and `settings.gradle` files.
 
-## 3. Release on Github
+## 3. Release Repository
 
 In Github, click on the `Releases` tab, select `Create a new release`, input the version number and relevant information, then click on `Publish release`.
 
 
 
-## 4. Get Dependency Implementation Link
+## 4. Add Dependency to Project
 
 Go to [JitPack](https://jitpack.io/) and log in with your GitHub account. Then, select your repository.
 
